@@ -130,49 +130,49 @@ export default function Home() {
           </h2>
           <div className="container my-5">
             <div className="flex flex-wrap justify-center">
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p1.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p2.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p3.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p4.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p5.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
             </div>
             <div className="flex flex-wrap justify-center mt-5">
-              <div className="m-2">
+              <div className="m-2 pl-20">
                 <img src="https://www.digital-lync.com/images/p6.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p7.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p8.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p9.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p10.webp" alt="Top Companies"
                   className="w-full filter grayscale" />
               </div>
-              <div className="m-2">
+              <div className="m-2 pl-10">
                 <img src="https://www.digital-lync.com/images/p12.webp" alt="Top Companies" className="w-full" />
               </div>
             </div>
